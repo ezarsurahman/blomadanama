@@ -1,2 +1,3 @@
 django init
 tambah settings dimaz
+tambah settings dimaz 2
